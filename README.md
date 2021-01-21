@@ -1,5 +1,17 @@
 ### Hi there 👋
+i have zero ideas on what to put here so.......
 
+I'm currently learning rust
+
+I'm currently looking to collab on pretty much anything, shoot me a DM at parzival#6471 on discord
+
+you can reach me at my discord, i don't really use any other social media
+
+My pronouns are he/him
+
+Fun fact : We'll all die one day, so you should probably stop reading my about me page and do something useful with your life(jk i really appreciate you reading it)
+
+byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 <!--
 **SuKiN-a/SuKiN-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
