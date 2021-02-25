@@ -11,8 +11,6 @@ My pronouns are he/him
 
 Fun fact : We'll all die one day, so you should probably stop reading my about me page and do something useful with your life(jk i really appreciate you reading it)
 
-NOTE: I'm in boarding school right now, so I probably wont be able to respond, sorry!
-byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 <!--
 **SuKiN-a/SuKiN-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
