@@ -1,7 +1,7 @@
 ### Hi there 👋
 i have zero ideas on what to put here so.......
 
-I'm currently learning rust, i also wanna learn go in the near future or get into graphics because it looks really heckin cool(gotta keep it pg)
+I'm currently learning rust, i want to learn a gui framework or a graphics api in the near future
 
 I'm currently looking to collab on pretty much anything, shoot me a DM at parzival#6471 on discord
 
