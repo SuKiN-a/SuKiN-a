@@ -7,11 +7,9 @@ I'm currently looking to collab on pretty much anything, shoot me a DM at parziv
 
 you can reach me at my discord, i don't really use any other social media
 
-My pronouns are he/they(?idk im still figuring stuff out about myself)
+My pronouns are he/they
 
-Fun fact : We'll all die one day, so you should probably stop reading my about me page and do something useful with your life(jk i really appreciate you reading it)
-
-These are my stats if you were interested in them.
+These are my github stats if you were interested in them.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SuKiN-a&count_private=true&theme=tokyonight&showicons=true)]()
